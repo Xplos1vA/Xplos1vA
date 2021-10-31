@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Xplos1vA (Felipe Ortiz)
+- 👀 I’m interested in (Learn and take this like a hobbie and maybe like a possibly work).
+- 🌱 I’m currently learning (Java, Python, Javascript, JQuery, NetBeans12.4 and NB-8.2).
+- 💞️ I’m looking to collaborate (right now on nothing).
+- 📫 How to reach me ... (explosiva_atom on Instagram)
